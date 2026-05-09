@@ -21,4 +21,4 @@ A simple calculator built with Python that performs:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/calculator-project.git
+git clone https://github.com/bohlalemda/calculator-project.git
